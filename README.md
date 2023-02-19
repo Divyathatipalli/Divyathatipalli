@@ -1,7 +1,7 @@
 Hi 👋 My name is Divya
 ======================
 
-Data scientist trainee
+Data sciencetrainee
 ----------------------
 
 eg: I have been learning to code from past 2 months,after switching careers.I started with Python
